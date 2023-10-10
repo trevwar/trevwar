@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my sanity
+- 🌱 I’m currently learning Github
+- 👯 I’m looking to collaborate on everything
+- 🤔 I’m looking for help with life
+- 💬 Ask me about it all
 
 <!--
 **trevwar/trevwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
