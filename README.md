@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on everything
 - 🤔 I’m looking for help with life
 - 💬 Ask me about it all
+- ⚡ Fun fact: 42
 
 <!--
 **trevwar/trevwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
